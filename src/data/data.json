@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "expenseTitle": "Rent",
+    "expenseAmount": 24000,
+    "expenseDate": "2019-01-01",
+    "expenseCategory": "Rent"
+}, {
+    "id": 2,
+    "expenseTitle": "Food",
+    "expenseAmount": 2000,
+    "expenseDate": "2019-01-01",
+    "expenseCategory": "Food"
+}, {
+    "id": 3,
+    "expenseTitle": "Car",
+    "expenseAmount": 10000,
+    "expenseDate": "2019-01-01",
+    "expenseCategory": "Car"
+}, {
+    "id": 4,
+    "expenseTitle": "Clothes",
+    "expenseAmount": 2000,
+    "expenseDate": "2019-01-01",
+    "expenseCategory": "Clothes"
+}]
